@@ -1,5 +1,5 @@
 [engm2010_soil_mechanics_portal.html](https://github.com/user-attachments/files/28667360/engm2010_soil_mechanics_portal.html)
-# engm2010-soil-mechanics (open the link).
+# OPEN the LINK above .
 Exam practice portal with interactive question versions, answer checking, working-method buttons, solutions and examiner tips.
 <!DOCTYPE html>
 <html lang="en">
